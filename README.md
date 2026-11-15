@@ -59,4 +59,18 @@ Explore my [repositories](https://github.com/svrhewa?tab=repositories) for my un
 
 </div>
 
+## 🧰 Tools
+
+<div align="center">
+
+![Tools: GitHub, IntelliJ IDEA, Visual Studio Code, Figma, and Android Studio](https://skillicons.dev/icons?i=github,idea,vscode,figma,androidstudio)
+
+<br />
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
 <!-- Add your LinkedIn profile URL and email here when ready. -->
