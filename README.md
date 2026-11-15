@@ -25,7 +25,11 @@ I'm interested in software engineering and quality assurance, and I enjoy learni
 
 <div align="center">
 
-![Technology icons for Python, Java, HTML, CSS, JavaScript, MySQL, Git, GitHub, and VS Code](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode)
+![Technology and tool icons for Python, Java, HTML, CSS, JavaScript, MySQL, Git, GitHub, VS Code, IntelliJ IDEA, Figma, and Android Studio](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,idea,figma,androidstudio)
+
+<br />
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -58,19 +62,5 @@ Explore my [repositories](https://github.com/svrhewa?tab=repositories) for my un
 [![GitHub](https://img.shields.io/badge/GitHub-svrhewa-181717?style=for-the-badge&logo=github)](https://github.com/svrhewa)
 
 </div>
-
-## 🧰 Tools
-
-<div align="center">
-
-![Tools: GitHub, IntelliJ IDEA, Visual Studio Code, Figma, and Android Studio](https://skillicons.dev/icons?i=github,idea,vscode,figma,androidstudio)
-
-<br />
-
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
 
 <!-- Add your LinkedIn profile URL and email here when ready. -->
