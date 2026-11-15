@@ -1,16 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Sanduni Vishara
+# Hi, I'm Sanduni Vishara 👋
 
-### Management Information Systems Undergraduate
+### Management Information Systems Undergraduate at NSBM
 
-🎓 I'm studying Management Information Systems and enjoy learning how technology can solve real-world problems.
+I'm interested in software engineering and quality assurance, and I enjoy learning how technology can solve real-world problems.
 
-💻 I'm passionate about building software and exploring new technologies.
-
-🚀 My goal is to become a full-stack developer.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Learning+and+building+every+day;Exploring+full-stack+development;Turning+ideas+into+useful+software" alt="Learning and building every day; exploring full-stack development; turning ideas into useful software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Exploring+Software+Engineering;Learning+Quality+Assurance;Building+my+skills+one+step+at+a+time" alt="Exploring software engineering, learning quality assurance, building my skills one step at a time" />
 
 </div>
 
@@ -18,22 +14,38 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Management Information Systems undergraduate
-- 🌱 Learning about software development and full-stack technologies
-- 💡 Interested in building useful software and solving real-world problems
+- 🎓 Studying Management Information Systems at NSBM
+- 💡 Interested in software engineering and quality assurance
+- 🌱 Developing my skills in programming, databases, and software tools
+- 🚀 Aspiring to build useful, reliable software
 
 ---
 
-## 🛠️ Technologies I'm Exploring
+## 🛠️ Languages and Tools
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Technology icons for Python, Java, HTML, CSS, JavaScript, MySQL, Git, GitHub, and VS Code](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode)
+
+</div>
+
+---
+
+## 📂 My Projects
+
+Explore my [repositories](https://github.com/svrhewa?tab=repositories) for my university and personal projects.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=svrhewa&show_icons=true&theme=dark&hide_border=true)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svrhewa&layout=compact&theme=dark&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svrhewa&theme=dark&hide_border=true)](https://github.com/svrhewa)
 
 </div>
 
@@ -46,3 +58,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-svrhewa-181717?style=for-the-badge&logo=github)](https://github.com/svrhewa)
 
 </div>
+
+<!-- Add your LinkedIn profile URL and email here when ready. -->
